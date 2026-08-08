@@ -30,3 +30,5 @@ This Power BI dashboard provides an interactive, end-to-end analysis of road acc
  - Advanced DAX Calculations: Utilized functions like TOTALYTD, SAMEPERIODLASTYEAR, CALCULATE, and custom percentage logic to dynamically track year-to-date values and YoY growth.
    
  - Custom UI/UX Design: Integrated a custom-designed canvas background (built in PowerPoint) and customized multi-row cards, ensuring visual consistency. Added interactive slicers for Weather Conditions and Road Surfaces.
+
+<img width="700" height="500" alt="Screenshot 2026-08-08 165309" src="https://github.com/user-attachments/assets/d6a873b4-700a-49d9-84be-bf5cf0e5a459" />
